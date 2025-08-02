@@ -5,6 +5,8 @@
 MindGuard is an AI-powered emotional safety platform designed to detect early signs of depression or suicidal thoughts and offer real-time support, insights, and emergency assistance. Built with empathy and technology, MindGuard helps users track their mental health, reflect on their emotions, and reach out before it's too late.
 
 ---
+## 📽️ Demo Video (Optional but Encouraged)
+[👉 Watch the 2-minute demo here](#) *(https://youtu.be/XlGjlovC3T0)*
 
 ## 🌟 Features
 
